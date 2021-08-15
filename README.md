@@ -1,4 +1,4 @@
-# onlinecourse-landingpage
+# onlinecourse-homepage
 Pagina home de plataforma EAD.
 
 Distance learning platform home page.
